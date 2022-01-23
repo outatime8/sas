@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x2B7B5a6B73424F425087E262401d6326aa0094e9",
+  "SCAN_LINK": "https://polygonscan.com/address/0x2B7B5a6B73424F425087E262401d6326aa0094e9",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Spotted Apes Squad",
+  "SYMBOL": "SAS",
+  "MAX_SUPPLY": 3000,
+  "WEI_COST": 3000000000000000000,
+  "DISPLAY_COST": 3,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/spotted-apes-squad",
+  "SHOW_BACKGROUND": true
+}
